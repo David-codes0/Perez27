@@ -1617,3 +1617,63 @@
 2026-10-19T02:25:52.265Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
 2026-10-19T02:25:52.265Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
 2026-10-19T02:25:52.266Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 241)…
+2026-10-19T02:26:22.268Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:26:22.268Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:26:22.272Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:26:22.688Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:26:22.689Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:26:22.690Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 242)…
+2026-10-19T02:26:52.693Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:26:52.694Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:26:52.704Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:26:53.092Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:26:53.092Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:26:53.093Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 243)…
+2026-10-19T02:27:23.094Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:27:23.094Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:27:23.095Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:27:23.504Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:27:23.504Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:27:23.504Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 244)…
+2026-10-19T02:27:53.506Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:27:53.507Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:27:53.512Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:27:53.905Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:27:53.905Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:27:53.906Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 245)…
+2026-10-19T02:28:23.908Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:28:23.909Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:28:23.916Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:28:24.300Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:28:24.300Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:28:24.300Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 246)…
+2026-10-19T02:28:54.301Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:28:54.301Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:28:54.302Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:28:54.713Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:28:54.713Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:28:54.713Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 247)…
+2026-10-19T02:29:08.777Z [ControlSite:mymacbook] [DEBUG] sendRegister — instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858  workbenches=[]
+2026-10-19T02:29:08.778Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=process_state_changed
+2026-10-19T02:29:08.795Z [ControlSite:mymacbook] [DEBUG] sendRegister — instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858  workbenches=[]
+2026-10-19T02:29:08.795Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=process_state_changed
+2026-10-19T02:29:08.865Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=register
+2026-10-19T02:29:08.878Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=register
+2026-10-19T02:29:24.714Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:29:24.714Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:29:24.715Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:29:25.128Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:29:25.128Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:29:25.128Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 248)…
+2026-10-19T02:29:29.757Z [ControlSite:mymacbook] [DEBUG] sendRegister — instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858  workbenches=[]
+2026-10-19T02:29:29.758Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=process_state_changed
+2026-10-19T02:29:29.835Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=register
+2026-10-19T02:29:34.707Z [ControlSite:mymacbook] [DEBUG] sendRegister — instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858  workbenches=[]
+2026-10-19T02:29:34.707Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=process_state_changed
+2026-10-19T02:29:34.790Z [ControlSite:mymacbook] [DEBUG] send — readyState=3 (OPEN=1)  ready=false  type=register
+2026-10-19T02:29:55.130Z [ControlSite:mymacbook] [DEBUG] buildWsUrl — https://jirehdevs.cs.dev.eiddew.com:7097  →  wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:29:55.130Z [ControlSite:mymacbook] Connecting to wss://jirehdevs.cs.dev.eiddew.com:7097/ws/workspace?instanceId=e4c352a5-5597-4e9d-ab1e-d2ced9be9858&globalInstanceId=04016e71-70a8-4450-9be9-7b49a7f0b6d7&instanceName=David-Mac.local
+2026-10-19T02:29:55.131Z [ControlSite:mymacbook] [DEBUG] WS connecting with client cert (thumbprint 3EB5C89C0787F5AA…)
+2026-10-19T02:29:55.541Z [ControlSite:mymacbook] [DEBUG] ws.error — certificate signature failure
+2026-10-19T02:29:55.541Z [ControlSite:mymacbook] [DEBUG] ws.close — code=1006  reason="no reason"
+2026-10-19T02:29:55.542Z [ControlSite:mymacbook] Reconnecting in 30s (attempt 249)…
