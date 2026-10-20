@@ -7,12 +7,11 @@ const bridesmaids = [
   { name: "Precious", role: "Bridesmaid", bio: "", imagepath: "images/Precious.jpeg" },
   { name: "Abigail", role: "Bridesmaid", bio: "", imagepath: "images/Abigail.jpeg" },
   { name: "Global Deborah", role: "Bridesmaid", bio: "", imagepath: "images/Global_Deborah.jpeg" },
-  { name: "Oluwasola", role: "Bridesmaid", bio: "", imagepath: "images/Oluwasola.jpeg" },
+  { name: "Akinlawon Love", role: "Bridesmaid", bio: "", imagepath: "images/akinlawonlove.jpg" },
   { name: "Peace", role: "Bridesmaid", bio: "", imagepath: "images/Peace.jpeg" },
   { name: "Esele", role: "Bridesmaid", bio: "", imagepath: "images/Esele.jpeg" },
   { name: "Olayinka", role: "Bridesmaid", bio: "", imagepath: "images/Olayinka.jpeg" },
   { name: "Oyinlola", role: "Bridesmaid", bio: "", imagepath: "images/Oyinlola.jpeg" },
-  { name: "Itunuoluwa", role: "Bridesmaid", bio: "", imagepath: "images/itunuoluwa.jpeg" },
   { name: "BMO", role: "Bridesmaid", bio: "", imagepath: "images/BMO.jpeg" }
 ];
 
@@ -26,7 +25,8 @@ const groomsmen = [
   { name: "Calabead", role: "Groomsman", bio: "", imagepath: "images/Calabead.jpeg" },
   { name: "Dedot", role: "Groomsman", bio: "", imagepath: "images/Dedot.jpeg" },
   { name: "Emmanuel", role: "Groomsman", bio: "", imagepath: "images/Emmanuel.jpeg" },
-  { name: "Unique", role: "Groomsman", bio: "", imagepath: "images/Unique.jpeg" }
+  { name: "Unique", role: "Groomsman", bio: "", imagepath: "images/Unique.jpeg" },
+  { name: "Itunuoluwa", role: "Groomsman", bio: "", imagepath: "images/itunuoluwa.jpeg" },
 ];
 
 const squads = { bridesmaids, groomsmen };
