@@ -14,7 +14,6 @@ const bridesmaids = [
   { name: "Oyinlola", role: "Bridesmaid", bio: "", imagepath: "images/Oyinlola.jpeg" },
   { name: "BMO", role: "Bridesmaid", bio: "", imagepath: "images/BMO.jpeg" }
 ];
-
 const groomsmen = [
   { name: "Ifeoluwa", role: "Best Man", bio: "", imagepath: "images/Ifeoluwa.jpeg" },
   { name: "Freedo", role: "Groomsman", bio: "", imagepath: "images/Freedo.jpeg" },
